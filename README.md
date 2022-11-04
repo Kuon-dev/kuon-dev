@@ -1,4 +1,4 @@
-👋 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code+Mono&pause=1000&color=D280F7&width=435&lines=Hello%2C+I+am+a+web+dev+from+Malaysia)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code+Mono&pause=1000&color=D280F7&width=435&lines=Hello%2C+I+am+a+web+dev+from+Malaysia)](https://git.io/typing-svg)
 ---
 <a href="https://app.daily.dev/KuonDev"><img src="https://api.daily.dev/devcards/4470f31a8fff4cafa8ba1a3a0261fb16.png?r=qfj" align="right" width="300" alt="AaronLYR's Dev Card"/></a>
 ### Now
