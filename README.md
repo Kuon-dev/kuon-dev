@@ -12,6 +12,8 @@
 - 🧑‍🤝‍🧑 Interacts with open source community
 - ⌨️ Uses `.js`, `.vue` daily
 - 💙 Loves using Neovim & ArchLinux
+- 🎮 Enjoys video games
+- ☎️ contact me at `aaronlyn88@gmail.com`
 
 
 <br>
