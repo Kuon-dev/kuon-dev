@@ -10,7 +10,7 @@
 - ✨ My [portfolio](https://kuon-dev-portfolio.vercel.app)!
 - 🖊️ Loves customization, here are my [dotfiles](https://github.com/Kuon-dev/dotfiles)!
 - 🧑‍🤝‍🧑 Interacts with open source community
-- ⌨️ Uses `.ts, `.tsx` daily
+- ⌨️ Uses `.ts` and `.tsx` daily
 - 💙 Loves using Neovim & ArchLinux
 - 🎮 Enjoys video games
 - ☎️ contact me at `aaronlyn88@gmail.com`
