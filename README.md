@@ -2,7 +2,7 @@
 ---
 <a href="https://app.daily.dev/KuonDev"><img src="https://api.daily.dev/devcards/4470f31a8fff4cafa8ba1a3a0261fb16.png?r=qfj" align="right" width="300" alt="AaronLYR's Dev Card"/></a>
 ### Now
-- 💼 Working as part time frontend VueJS developer
+- 💼 Working as part time frontend React & Qwik developer
 - 📘 Studying in Asia Pacific University
 - 🤝 Open for collab
 
@@ -10,7 +10,7 @@
 - ✨ My [portfolio](https://kuon-dev-portfolio.vercel.app)!
 - 🖊️ Loves customization, here are my [dotfiles](https://github.com/Kuon-dev/dotfiles)!
 - 🧑‍🤝‍🧑 Interacts with open source community
-- ⌨️ Uses `.js`, `.vue` daily
+- ⌨️ Uses `.ts, `.tsx` daily
 - 💙 Loves using Neovim & ArchLinux
 - 🎮 Enjoys video games
 - ☎️ contact me at `aaronlyn88@gmail.com`
